@@ -91,6 +91,6 @@ cd BudgetBuddy
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](./BudgetBuddy/LICENSE).
+This project is open-source and available under the [MIT License](./Budget-Buddy/LICENSE).
 
 ---
